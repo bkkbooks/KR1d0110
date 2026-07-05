@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1d0110_001.yaml, hash: 'sha256:c495cf6ce472faa3ae8b2255c93fe572fc37644ebb5cf74575ee50d8840d45cd'}
+  - {seq: 1, filename: KR1d0110_001.yaml, hash: 'sha256:35d684ec249a6febf9821df5c0bae06c7a38e8d4db15578dd912aedcd13bf49e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1d0110_001.markers.yaml, hash: 'sha256:5509771f819655d58c0651168de3db9279688b0232cb9132a2473e4f483ca5b9'}
+  - {seq: 1, role: markers, filename: assets/KR1d0110_001.markers.yaml, hash: 'sha256:a7babc18a9620bd61a86f93b7328c9c3b1fb125a6660ddf30087637ae6171e45'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 天官冢宰第一
   type: section
   level: 1
-hash: sha256:e228e0d68715a73ac802967d8536de036332818ee658b3876b9bac027cda2780
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8898af78b3be5d2a1d2c560113e023f63e932a2021d963f837404d8bcafd6731
